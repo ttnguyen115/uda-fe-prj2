@@ -28,7 +28,7 @@ Here are what I have done:
 ## Usage
 
 Start by live server of Editor or IDE.
-Public URL deployment by Vercel:
+Public URL deployment by Vercel: https://uda-fe-prj2.vercel.app
 
 ## Dependencies
 
